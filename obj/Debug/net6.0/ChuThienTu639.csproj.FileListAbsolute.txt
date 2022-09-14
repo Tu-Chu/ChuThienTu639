@@ -1,0 +1,8 @@
+F:\NETCore\ChuThienTu639\obj\Debug\net6.0\ChuThienTu639.csproj.AssemblyReference.cache
+F:\NETCore\ChuThienTu639\obj\Debug\net6.0\ChuThienTu639.GeneratedMSBuildEditorConfig.editorconfig
+F:\NETCore\ChuThienTu639\obj\Debug\net6.0\ChuThienTu639.AssemblyInfoInputs.cache
+F:\NETCore\ChuThienTu639\obj\Debug\net6.0\ChuThienTu639.AssemblyInfo.cs
+F:\NETCore\ChuThienTu639\obj\Debug\net6.0\ChuThienTu639.csproj.CoreCompileInputs.cache
+F:\NETCore\ChuThienTu639\obj\Debug\net6.0\ChuThienTu639.MvcApplicationPartsAssemblyInfo.cache
+F:\NETCore\ChuThienTu639\obj\Debug\net6.0\ChuThienTu639.RazorAssemblyInfo.cache
+F:\NETCore\ChuThienTu639\obj\Debug\net6.0\ChuThienTu639.RazorAssemblyInfo.cs
